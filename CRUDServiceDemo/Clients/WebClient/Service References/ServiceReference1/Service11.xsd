@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ProductService.DTO" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ProductService.DTO" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfStudyProductDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="StudyProductDTO" nillable="true" type="tns:StudyProductDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStudyProductDTO" nillable="true" type="tns:ArrayOfStudyProductDTO" />
+  <xs:complexType name="StudyProductDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ProductName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProductPrice" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ProductType" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StudyProductDTO" nillable="true" type="tns:StudyProductDTO" />
+</xs:schema>

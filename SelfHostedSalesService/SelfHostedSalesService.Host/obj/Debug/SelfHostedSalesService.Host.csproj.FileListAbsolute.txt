@@ -1,0 +1,11 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\bin\Debug\SelfHostedSalesService.Host.exe.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\bin\Debug\SelfHostedSalesService.Host.exe
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\bin\Debug\SelfHostedSalesService.Host.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\obj\Debug\SelfHostedSalesService.Host.csprojResolveAssemblyReference.cache
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\obj\Debug\SelfHostedSalesService.Host.Form1.resources
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\obj\Debug\SelfHostedSalesService.Host.Properties.Resources.resources
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\obj\Debug\SelfHostedSalesService.Host.csproj.GenerateResource.Cache
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\obj\Debug\SelfHostedSalesService.Host.exe
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\obj\Debug\SelfHostedSalesService.Host.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\bin\Debug\SelfHostedSalesService.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService.Host\bin\Debug\SelfHostedSalesService.pdb

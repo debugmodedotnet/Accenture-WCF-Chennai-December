@@ -1,0 +1,12 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\ProductService.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\ProductService.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\ProductService.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\EntityFramework.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\Product.DataLayer.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\Product.DataLayer.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\EntityFramework.xml
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\obj\Debug\ProductService.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\obj\Debug\ProductService.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\Product.Infrastructure.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\ProductService\bin\Product.Infrastructure.pdb

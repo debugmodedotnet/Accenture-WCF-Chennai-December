@@ -1,0 +1,1 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\MultipleServiceContractClient\MultipleServiceContractClient\bin\Debug\MultipleServiceContractClient.exe.config

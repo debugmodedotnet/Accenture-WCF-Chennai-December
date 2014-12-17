@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DJPC</Machine>
+    <WindowsUser>dhananjay</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d00fadba-bc48-4099-a2dc-cff4bc693bd0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1925D48DF8897F1C28B7DD2C99A2E1C62718CE9A1E2BBBD8E03ADB41F15A8C89</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d00fadba-bc48-4099-a2dc-cff4bc693bd0_1.0.0.0_neutral__8zrmrvc8py4tg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d00fadba-bc48-4099-a2dc-cff4bc693bd0_8zrmrvc8py4tg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d00fadba-bc48-4099-a2dc-cff4bc693bd0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dhananjay</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-03T10:51:26.804</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\bin\Debug\WindowsStoreClient.exe">
+      <PackagePath>WindowsStoreClient.exe</PackagePath>
+      <Modified>2014-12-03T10:53:23.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-03T10:47:06.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-03T10:51:26.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\bin\Debug\WindowsStoreClient.xr.xml">
+      <PackagePath>WindowsStoreClient.xr.xml</PackagePath>
+      <Modified>2014-12-03T10:51:26.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-03T10:51:26.595</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

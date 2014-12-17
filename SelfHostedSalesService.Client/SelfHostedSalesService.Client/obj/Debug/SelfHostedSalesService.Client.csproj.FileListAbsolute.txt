@@ -1,0 +1,5 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService.Client\SelfHostedSalesService.Client\bin\Debug\SelfHostedSalesService.Client.exe.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService.Client\SelfHostedSalesService.Client\bin\Debug\SelfHostedSalesService.Client.exe
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService.Client\SelfHostedSalesService.Client\bin\Debug\SelfHostedSalesService.Client.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService.Client\SelfHostedSalesService.Client\obj\Debug\SelfHostedSalesService.Client.exe
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService.Client\SelfHostedSalesService.Client\obj\Debug\SelfHostedSalesService.Client.pdb

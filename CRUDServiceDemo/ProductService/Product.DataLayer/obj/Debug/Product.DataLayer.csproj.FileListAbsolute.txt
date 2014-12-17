@@ -1,0 +1,10 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\Product.DataLayer.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\Product.DataLayer.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\Product.DataLayer.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\obj\Debug\Product.DataLayer.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\obj\Debug\Product.DataLayer.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.DataLayer\obj\Debug\Product.DataLayer.csprojResolveAssemblyReference.cache

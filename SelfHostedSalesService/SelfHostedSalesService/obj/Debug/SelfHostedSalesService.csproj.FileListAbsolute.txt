@@ -1,0 +1,6 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService\bin\Debug\SelfHostedSalesService.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService\bin\Debug\SelfHostedSalesService.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService\bin\Debug\SelfHostedSalesService.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService\obj\Debug\SelfHostedSalesService.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService\obj\Debug\SelfHostedSalesService.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\SelfHostedSalesService\SelfHostedSalesService\obj\Debug\SelfHostedSalesService.csprojResolveAssemblyReference.cache

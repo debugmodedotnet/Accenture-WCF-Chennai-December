@@ -1,0 +1,5 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\Clients\WebClient\bin\WebClient.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\Clients\WebClient\bin\WebClient.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\Clients\WebClient\bin\WebClient.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\Clients\WebClient\obj\Debug\WebClient.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\Clients\WebClient\obj\Debug\WebClient.pdb

@@ -1,0 +1,5 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.ConsoleClient\bin\Debug\BloodDonorService.ConsoleClient.exe.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.ConsoleClient\bin\Debug\BloodDonorService.ConsoleClient.exe
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.ConsoleClient\bin\Debug\BloodDonorService.ConsoleClient.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.ConsoleClient\obj\Debug\BloodDonorService.ConsoleClient.exe
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.ConsoleClient\obj\Debug\BloodDonorService.ConsoleClient.pdb

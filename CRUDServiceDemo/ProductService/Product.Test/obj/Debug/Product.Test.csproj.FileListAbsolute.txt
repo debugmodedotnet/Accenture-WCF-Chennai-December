@@ -1,0 +1,13 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.Test.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.Test.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.DataLayer.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.Infrastructure.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\EntityFramework.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.DataLayer.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.Infrastructure.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\EntityFramework.xml
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\obj\Debug\Product.Test.csprojResolveAssemblyReference.cache
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\obj\Debug\Product.Test.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\obj\Debug\Product.Test.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\Product.Test.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\CRUDServiceDemo\ProductService\Product.Test\bin\Debug\EntityFramework.SqlServer.dll

@@ -1,0 +1,5 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\FaultContractDemo\FaultContractDemo\bin\FaultContractDemo.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\FaultContractDemo\FaultContractDemo\bin\FaultContractDemo.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\FaultContractDemo\FaultContractDemo\bin\FaultContractDemo.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\FaultContractDemo\FaultContractDemo\obj\Debug\FaultContractDemo.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\FaultContractDemo\FaultContractDemo\obj\Debug\FaultContractDemo.pdb

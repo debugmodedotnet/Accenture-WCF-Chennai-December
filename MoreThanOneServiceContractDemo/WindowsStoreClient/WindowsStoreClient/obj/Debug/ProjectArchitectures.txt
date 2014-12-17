@@ -1,0 +1,1 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\MoreThanOneServiceContractDemo\WindowsStoreClient\WindowsStoreClient\WindowsStoreClient.csproj;neutral

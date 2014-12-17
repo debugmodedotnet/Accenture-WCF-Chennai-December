@@ -1,0 +1,6 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\InstanceModeDemo\PerCallDemo\PerCallDemo\bin\PerCallDemo.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\InstanceModeDemo\PerCallDemo\PerCallDemo\bin\PerCallDemo.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\InstanceModeDemo\PerCallDemo\PerCallDemo\bin\PerCallDemo.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\InstanceModeDemo\PerCallDemo\PerCallDemo\obj\Debug\PerCallDemo.csprojResolveAssemblyReference.cache
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\InstanceModeDemo\PerCallDemo\PerCallDemo\obj\Debug\PerCallDemo.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\InstanceModeDemo\PerCallDemo\PerCallDemo\obj\Debug\PerCallDemo.pdb

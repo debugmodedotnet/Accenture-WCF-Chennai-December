@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDataContractDemo", "GenericDataContractDemo\GenericDataContractDemo.csproj", "{3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A198D890-6594-4393-BF28-8B330A359ADE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E} = {3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE02ABE-9F51-4EE5-B9EF-C2BF71E4924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A198D890-6594-4393-BF28-8B330A359ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A198D890-6594-4393-BF28-8B330A359ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A198D890-6594-4393-BF28-8B330A359ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A198D890-6594-4393-BF28-8B330A359ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

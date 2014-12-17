@@ -1,0 +1,6 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\DataContractDemo\DataContractDemo\bin\DataContractDemo.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\DataContractDemo\DataContractDemo\bin\DataContractDemo.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\DataContractDemo\DataContractDemo\bin\DataContractDemo.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\DataContractDemo\DataContractDemo\obj\Debug\DataContractDemo.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\DataContractDemo\DataContractDemo\obj\Debug\DataContractDemo.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\DataContractDemo\DataContractDemo\obj\Debug\DataContractDemo.csprojResolveAssemblyReference.cache

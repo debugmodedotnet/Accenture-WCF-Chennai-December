@@ -1,0 +1,6 @@
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.WebClient\bin\BloodDonorService.WebClient.dll.config
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.WebClient\bin\BloodDonorService.WebClient.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.WebClient\bin\BloodDonorService.WebClient.pdb
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.WebClient\obj\Debug\BloodDonorService.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.WebClient\obj\Debug\BloodDonorService.WebClient.dll
+C:\Users\dhananjay\Desktop\AccentureCheenaiDecemberBatch\BloodDonorService.ConsoleClient\BloodDonorService.WebClient\obj\Debug\BloodDonorService.WebClient.pdb

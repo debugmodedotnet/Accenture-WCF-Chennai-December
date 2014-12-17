@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;ep1&quot; /&gt;" bindingType="basicHttpBinding" name="ep1" />
+    <binding digest="System.ServiceModel.Configuration.WSHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;ep2&quot; /&gt;" bindingType="wsHttpBinding" name="ep2" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:6589/Service1.svc/ep1&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;ep1&quot; contract=&quot;ServiceReference1.IBloodDonorService&quot; name=&quot;ep1&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:6589/Service1.svc/ep1&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;ep1&quot; contract=&quot;ServiceReference1.IBloodDonorService&quot; name=&quot;ep1&quot; /&gt;" contractName="ServiceReference1.IBloodDonorService" name="ep1" />
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:6589/Service1.svc/ep2&quot; binding=&quot;wsHttpBinding&quot; bindingConfiguration=&quot;ep2&quot; contract=&quot;ServiceReference1.IBloodDonorService&quot; name=&quot;ep2&quot;&gt;&lt;identity&gt;&lt;userPrincipalName value=&quot;DJPC\dhananjay&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:6589/Service1.svc/ep2&quot; binding=&quot;wsHttpBinding&quot; bindingConfiguration=&quot;ep2&quot; contract=&quot;ServiceReference1.IBloodDonorService&quot; name=&quot;ep2&quot;&gt;&lt;identity&gt;&lt;userPrincipalName value=&quot;DJPC\dhananjay&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" contractName="ServiceReference1.IBloodDonorService" name="ep2" />
+  </endpoints>
+</configurationSnapshot>
